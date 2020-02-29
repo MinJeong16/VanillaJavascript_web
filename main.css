@@ -1,12 +1,7 @@
 body {
-<<<<<<< HEAD
-  font-family: 'Raleway', sans-serif ;
-  color: #fff;
-=======
-    font-family: sans-serif;
+    font-family: 'Raleway';
     color: #fff;
     background-color:#7f8c8d
->>>>>>> 309849ad1d0d3b389058b7a1c3c115106e5b680c
 }
 
 .container{
@@ -37,6 +32,7 @@ body {
 .showing{
   display:block;
   font-size: 20px;
+  margin-top: 10px;
 }
 
 .container span.js-weather{
